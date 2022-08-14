@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="chirans-interior-consultant.vercel.app">
+    <a href="https://github.com/TheChiran/recipe-app-dev-challenges">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/TheChiran/interior-consultant">
+    <a href="https://github.com/TheChiran/recipe-app-dev-challenges">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">
+    <a href="https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht">
       Challenge
     </a>
   </h3>
